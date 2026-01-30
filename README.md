@@ -11,7 +11,7 @@ This project was completed as part of my **Advanced Data Management (D191/D326)*
 
 ---
 
-## 📊 Project Overview  
+## Project Overview  
 The project emulates a professional data analysis workflow by designing a database reporting system that transforms raw DVD rental data into **actionable insights for stakeholders**.  
 
 I created:  
@@ -23,7 +23,7 @@ The system automates transformations, data refreshes, and report updates, ensuri
 
 ---
 
-## ⚙️ What I Built  
+## What I Built  
 
 ### 1. **SQL Tables & Reports**  
 - **Detailed Report Table** with rental-level data (customer, film, rental/return date, amount paid)  
@@ -51,21 +51,21 @@ The system automates transformations, data refreshes, and report updates, ensuri
 
 ---
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 - **PostgreSQL** (DVD Rental sample database)  
 - **SQL** (DDL, DML, Functions, Triggers, Stored Procedures)  
 - **pgAdmin / Labs on Demand**  
 
 ---
 
-## 🚀 Key Outcomes  
+## Key Outcomes  
 ✅ Built a **two-level reporting system** (detailed + summary) to support business decision-making  
 ✅ Automated reporting pipeline using **SQL functions, triggers, and stored procedures**  
 ✅ Delivered a **professional-grade database solution** for analytics and stakeholder reporting  
 
 ---
 
-## 📌 Competencies Demonstrated  
+## Competencies Demonstrated  
 
 - **4037.5.1 – Writes Structured Query Language (SQL) Statements**  
   - Wrote complex queries for data extraction, analysis, and manipulation  
