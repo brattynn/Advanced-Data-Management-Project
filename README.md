@@ -73,13 +73,3 @@ The system automates transformations, data refreshes, and report updates, ensuri
 - **4037.5.2 – Configures Automated Tasks**  
   - Configured triggers, functions, and stored procedures to automate reporting and data integration  
 
----
-
-## 🖼️ Project Workflow  
-
-```mermaid
-flowchart TD
-    A[Source DVD Database] --> B[Detailed Report Table]
-    B -->|Trigger| C[Summary Report Table]
-    B -->|Stored Procedure| B
-    C -->|Stored Procedure| C
