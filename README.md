@@ -67,9 +67,9 @@ Delivered a **professional-grade database solution** for analytics and stakehold
 
 ## Competencies Demonstrated  
 
-- **4037.5.1 – Writes Structured Query Language (SQL) Statements**  
+- **Writing Structured Query Language (SQL) Statements**  
   - Wrote complex queries for data extraction, analysis, and manipulation  
 
-- **4037.5.2 – Configures Automated Tasks**  
+- **Configuring Automated Tasks**  
   - Configured triggers, functions, and stored procedures to automate reporting and data integration  
 
