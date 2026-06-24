@@ -1,4 +1,4 @@
-# 🎬 Advanced Data Management Project – DVD Rental Database  
+# Advanced Data Management Project – DVD Rental Database  
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database&logoColor=white)
@@ -59,9 +59,9 @@ The system automates transformations, data refreshes, and report updates, ensuri
 ---
 
 ## Key Outcomes  
-✅ Built a **two-level reporting system** (detailed + summary) to support business decision-making  
-✅ Automated reporting pipeline using **SQL functions, triggers, and stored procedures**  
-✅ Delivered a **professional-grade database solution** for analytics and stakeholder reporting  
+Built a **two-level reporting system** (detailed + summary) to support business decision-making  
+Automated reporting pipeline using **SQL functions, triggers, and stored procedures**  
+Delivered a **professional-grade database solution** for analytics and stakeholder reporting  
 
 ---
 
